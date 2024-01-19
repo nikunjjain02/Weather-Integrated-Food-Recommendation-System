@@ -1,7 +1,6 @@
-# Weather Integrated Food Choices with SHAP Explanation
+# Weather Forecasting Flavours
 
-Project Name: Forecasting Flavours
-
+Project Name: Integrated Food Choices with SHAP Explanation
 
 ## Objective:
 To empower cloud kitchen operations with adaptive and informed decision-making, reducing food wastage and aligning menu choices with dynamic weather patterns.
