@@ -15,7 +15,9 @@ To minimize the food wastages for the cloud kitchen using the state of art ML Te
 
 ## Contributors:
 Nikunj Jain - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
+
 Priyanshu Jha - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
+
 Jawed Hawari - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
 
 
