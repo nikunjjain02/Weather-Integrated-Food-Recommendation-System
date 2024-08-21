@@ -26,6 +26,8 @@ Priyanshu Jha - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengalur
 
 Jawed Hawari - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
 
+K Kushal - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
+
 
 ## Feedback and Issues:
 We welcome feedback, suggestions, and bug reports. Please mail at nikunjcollege@gmail.com for any queries or for enhanced work.
